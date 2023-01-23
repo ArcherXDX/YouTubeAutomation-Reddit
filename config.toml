@@ -7,19 +7,19 @@ path=''
 path=''
 # ----------------------------------------------------------
 [RedditCredential]
-client_id=''
-client_secret=''
-user_agent='
-username=''
-passkey=''
+client_id='J6KJR25tIZxY3SA4RmXfhw'
+client_secret='2AmvSFyoNGZJbsUW8ZzRUAht06DW-g'
+user_agent='{Archer Xforce} v4.0 by /u/{UltraArcherX}'
+username='UltraArcherX'
+passkey='EXCaliber10!'
 # ----------------------------------------------------------
 [YoutubeCredential]
 client_id=''
 client_secret=''
 # ----------------------------------------------------------
 [AmazonAWSCredential]
-aws_access_key_id=''
-aws_secret_access_key=''
+aws_access_key_id='AKIA5PILWMWDVNUPHA6M'
+aws_secret_access_key='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'
 region_name='eu-central-1'
 # ----------------------------------------------------------
 [Reddit]
@@ -42,6 +42,6 @@ voice_id='Joanna'
 # ----------------------------------------------------------
 [App]
 # whether the result video should be uploaded to your youtube channel
-upload_to_youtube=false
+upload_to_youtube=true
 # how often should the app be run (in seconds) e.g: every 6 hours -> 21600 seconds
 run_every=21600
