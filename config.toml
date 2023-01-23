@@ -4,7 +4,7 @@ path=''
 # ----------------------------------------------------------
 [Background]
 # absolute path to the background video e.g: Desktop/minecraft.mp4
-path=''
+path='https://youtu.be/n_Dv4JMiwK8'
 # ----------------------------------------------------------
 [RedditCredential]
 client_id='J6KJR25tIZxY3SA4RmXfhw'
